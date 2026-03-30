@@ -283,15 +283,9 @@ CollabTest/
 
 ## Contributing
 
-This is a two-person project between **Ryan Decker** and **Bryan**. The workflow:
+This is a two-person project between **Ryan Decker** and **Bryan**. See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full collaboration process — how we claim work, review PRs, keep CLAUDE.md in sync, and resolve disagreements.
 
-1. Create a worktree for your feature: `claude --worktree feature-name`
-2. Do your work with Claude Code
-3. Open a PR -- Claude reviews it automatically via GitHub Actions
-4. The other person does final human review
-5. Merge to main
-
-**Never push directly to main.** Always go through a PR.
+**The short version:** Issues → self-assign → branch → PR (under 300 lines) → human review → merge. Never push directly to main.
 
 ---
 
