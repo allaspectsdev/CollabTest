@@ -1,6 +1,10 @@
 ## Summary
 
-<!-- Brief description of what this PR does -->
+<!-- What does this PR do? Link the issue: Closes #__ -->
+
+## Approach
+
+<!-- What approach did you take and why? Note any alternatives considered. -->
 
 ## Changes
 
@@ -10,11 +14,14 @@
 
 ## Test Plan
 
-<!-- How were these changes tested? -->
-
 - [ ] Tests pass locally (`npm test`)
 - [ ] Linting passes (`npm run lint`)
-- [ ] Manual testing performed (describe below if applicable)
+- [ ] New functionality has tests
+
+## CLAUDE.md
+
+- [ ] No new patterns introduced — CLAUDE.md unchanged
+- [ ] Updated CLAUDE.md (architecture decisions, module ownership, or conventions)
 
 ## Notes for Reviewer
 
